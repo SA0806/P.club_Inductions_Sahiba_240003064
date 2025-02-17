@@ -28,10 +28,10 @@ The project features the **home page of an e-commerce clothing website**. The he
 
 
 ## 📷 Preview
-![preview1](ss1.jpg)
-![preview2](ss2.jpg)
-![preview3](ss3.jpg)
-![preview4](ss4.jpg)
+![preview1](images/ss1.jpg)
+![preview2](images/ss2.jpg)
+![preview3](images/ss3.jpg)
+![preview4](images/ss4.jpg)
 
 ## Installation & Setup
 1. Clone the repository.

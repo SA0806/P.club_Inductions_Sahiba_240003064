@@ -81,7 +81,7 @@ html, body {
     margin-left: -16px;
     max-height: fit-content;
     padding-bottom: 20px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(b1.jpg);  /* using linear gradient to make the background image darker */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/b1.jpg);  /* using linear gradient to make the background image darker */
     color: whitesmoke;
     
                   
